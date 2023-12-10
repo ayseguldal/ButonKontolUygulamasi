@@ -23,4 +23,6 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 
 ## Uygulama Çalıştırılması ve Süreci:
 1- Butonların Basılmamış Hali:
+![ss2](https://github.com/ayseguldal/ButonKontolUygulamasi/assets/118614193/ba36d860-465a-4b6f-b544-fc4da59290f3)
+
 
