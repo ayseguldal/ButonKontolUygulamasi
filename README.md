@@ -23,4 +23,4 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 
 ## Uygulama Çalıştırılması ve Süreci:
 1- Butonların Basılmamış Hali:
-<img src="C:\Users\Ayşegül\Desktop\ss2.png" alt="alt text" width="320" height="180">
+
