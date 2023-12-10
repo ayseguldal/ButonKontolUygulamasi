@@ -12,7 +12,8 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 - Butonlar, aktif ve pasif durumlarını göstermek için farklı renk ve simgeleri kullanır.
 - Bir butona tıklandığında, diğer butonların durumları güncellenir; önceki butonlar pasif hale gelir, sadece tıklanan buton aktif olur.
 - Eğer ekranda örneğin 1. Butona basıldıktansonra  2.  Ve  daha  sonraki  herhangi  bir sıradaki basılmamış butona basıldığında onlarda aktif renk ve aktif simge gösterecektir. Ancak 1. Butona tekrar basılırsa önceden basılmış butonlar(varsa) pasif hale gelecektir ve sadece tekrar basılan buton aktif olacaktır.
-
+## Nasıl Kullanılır?
+- Projeyi yerel bilgisayarınıza klonlayın, bir Java IDE'sinde açın ve CustomButton sınıfını inceleyerek, main metoduyla ilgili örnekleri çalıştırarak projeyi anlamaya başlayabilirsiniz.
 ## Kullanım Alanları
   Bu tür bir proje, aşağıdaki kullanım alanlarına uygun olabilir:
 - GUI programlamaya yeni başlayan geliştiricilerin eğitimi ve öğrenimi için örnek bir proje.
@@ -20,6 +21,23 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 - Java dilindeki GUI kütüphaneleri ile çalışmak isteyenlerin başlangıç noktası.
 - Özelleştirilmiş butonlar gibi özel grafik bileşenlerinin nasıl oluşturulacağını ve kullanılacağını anlamak isteyenler için bir referans.
 - Bu proje, kullanıcı arayüzü tasarımı ve olay işleme konularında temel bir anlayış kazanmak isteyen Java geliştiricileri için faydalı olabilir.
+
+## GraphQL Nedir?
+GraphQL, veri sorgulama dilidir ve bir API (Application Programming Interface) sorgularını ve mutasyonlarını yönetmek için kullanılır. Facebook tarafından geliştirilmiştir ve 2015 yılında ilk kez açık kaynak olarak duyurulmuştur. GraphQL, istemcinin ihtiyaç duyduğu veriyi belirleyebilmesine ve yalnızca bu veriyi alabilmesine olanak tanıyan esnek bir yapı sunar.
+
+## GraphQL Avantajları:
+- Esnek ve Özelleştirilebilir:İstemciler, ihtiyaçlarına göre özelleştirilebilen esnek sorgular yapabilir.
+- Tek Bir Endpoint:GraphQL'de tek bir endpoint bulunur, bu da istemcilerin farklı veri ihtiyaçlarını tek bir yerden karşılamasına olanak tanır.
+- İhtiyaca Göre Veri Alımı:İstemci, yalnızca ihtiyacı olan verileri alabilir, aşırı veri transferini önler.
+- İlişkisel Veri Yönetimi:GraphQL, ilişkisel veritabanları ve modelleri ile etkileşimi kolaylaştırır.
+- Canlı Sorgular (Subscriptions):GraphQL, canlı sorgular aracılığıyla gerçek zamanlı veri güncellemelerini destekler.
+## GraphQL Dezavantajları:
+- Öğrenme Eğrisi:GraphQL, yeni geliştiriciler için öğrenmesi zaman alabilir, özellikle REST'ten farklı bir yaklaşım sunar.
+- Güvenlik:Kullanıcıların kendi sorgularını oluşturmasına olanak tanıdığı için güvenlik sorunlarına yol açabilir.
+- Karmaşıklık ve Performans:Çok karmaşık sorgular yazmak ve performansı yönetmek zor olabilir.
+- İşlemeyi Desteklemeyen Bazı Araçlar:GraphQL'i desteklemeyen bazı araçlar ve kütüphaneler olabilir.
+- REST ile Uyum Sorunları:Sistemler arasında geçiş sürecini yönetmek, özellikle REST tabanlı sistemlerle uyum sağlamak bazen zor olabilir.
+
 
 ## Uygulama Çalıştırılması ve Süreci:
 1- Butonların Basılmamış Hali:
