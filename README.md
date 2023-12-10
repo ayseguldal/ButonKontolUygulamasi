@@ -6,8 +6,9 @@ Bu proje, Java dilinde kullanıcı arayüzü (GUI) tasarımı için temel bir ö
 ## Kullanılma Nedeni
 Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek isteyen geliştiricilere yöneliktir. Aynı zamanda, temel GUI bileşenleri üzerinde nasıl özelleştirmeler yapılacağını ve olayları nasıl ele alınacağını anlamak isteyenler için uygundur. Proje, özellikle Swing veya JavaFX gibi GUI kütüphaneleri kullanılarak temel grafik arayüz tasarımı ve olay işleme kavramlarını uygulamak için bir başlangıç noktası sunar.
 ## Uygulamanın Özellikleri 
--Her buton, özel olarak oluşturulmuş `ButonOlustur` sınıfından türetilir.
+- Her buton, özel olarak oluşturulmuş `ButonOlustur` sınıfından türetilir.
 - Her buton, GraphQL şemasını saklayabilme özelliğine sahiptir.
 - Butonlar, basıldığında GraphQL şemasında bir mutation çalıştırma yeteneğine sahiptir.
 - Butonlar, aktif ve pasif durumlarını göstermek için farklı renk ve simgeleri kullanır.
 - Bir butona tıklandığında, diğer butonların durumları güncellenir; önceki butonlar pasif hale gelir, sadece tıklanan buton aktif olur.
+- Eğer ekranda örneğin 1. Butona basıldıktansonra  2.  Ve  daha  sonraki  herhangi  bir sıradaki basılmamış butona basıldığında onlarda aktif renk ve aktif simge gösterecektir. Ancak 1. Butona tekrar basılırsa önceden basılmış butonlar(varsa) pasif hale gelecektir ve sadece tekrar basılan buton aktif olacaktır. 
