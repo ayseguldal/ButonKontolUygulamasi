@@ -23,7 +23,8 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 - Bu proje, kullanıcı arayüzü tasarımı ve olay işleme konularında temel bir anlayış kazanmak isteyen Java geliştiricileri için faydalı olabilir.
 
 ## GraphQL Nedir?
-GraphQL, veri sorgulama dilidir ve bir API (Application Programming Interface) sorgularını ve mutasyonlarını yönetmek için kullanılır. Facebook tarafından geliştirilmiştir ve 2015 yılında ilk kez açık kaynak olarak duyurulmuştur. GraphQL, istemcinin ihtiyaç duyduğu veriyi belirleyebilmesine ve yalnızca bu veriyi alabilmesine olanak tanıyan esnek bir yapı sunar.
+GraphQL, API'ler için açık kaynaklı bir veri sorgulama ve işleme dili ve bu sorgularını ve mutastonlarını yerine getirmek için yazılmış uygulamalardır.
+Facebook tarafından geliştirilmiştir ve 2015 yılında ilk kez açık kaynak olarak duyurulmuştur. GraphQL, istemcinin ihtiyaç duyduğu veriyi belirleyebilmesine ve yalnızca bu veriyi alabilmesine olanak tanıyan esnek bir yapı sunar.
 
 ## GraphQL Avantajları:
 - Esnek ve Özelleştirilebilir:İstemciler, ihtiyaçlarına göre özelleştirilebilen esnek sorgular yapabilir.
