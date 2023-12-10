@@ -13,7 +13,7 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 - Bir butona tıklandığında, diğer butonların durumları güncellenir; önceki butonlar pasif hale gelir, sadece tıklanan buton aktif olur.
 - Eğer ekranda örneğin 1. Butona basıldıktansonra  2.  Ve  daha  sonraki  herhangi  bir sıradaki basılmamış butona basıldığında onlarda aktif renk ve aktif simge gösterecektir. Ancak 1. Butona tekrar basılırsa önceden basılmış butonlar(varsa) pasif hale gelecektir ve sadece tekrar basılan buton aktif olacaktır.
 ## Nasıl Kullanılır?
-- Projeyi yerel bilgisayarınıza klonlayın, bir Java IDE'sinde açın ve CustomButton sınıfını inceleyerek, main metoduyla ilgili örnekleri çalıştırarak projeyi anlamaya başlayabilirsiniz.
+- Projeyi yerel bilgisayarınıza klonlayın, bir Java IDE'sinde açın ve `ButonOlustur` sınıfını inceleyerek, main metoduyla ilgili örnekleri çalıştırarak projeyi anlamaya başlayabilirsiniz.
 ## Kullanım Alanları
   Bu tür bir proje, aşağıdaki kullanım alanlarına uygun olabilir:
 - GUI programlamaya yeni başlayan geliştiricilerin eğitimi ve öğrenimi için örnek bir proje.
