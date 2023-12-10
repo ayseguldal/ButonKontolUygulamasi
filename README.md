@@ -26,6 +26,8 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 ![ss2](https://github.com/ayseguldal/ButonKontolUygulamasi/assets/118614193/ba36d860-465a-4b6f-b544-fc4da59290f3)
 2- Herhangi Bir Buton Aktif Olduğundaki Durum:
 ![ss1](https://github.com/ayseguldal/ButonKontolUygulamasi/assets/118614193/b37c2d22-f8bb-44f3-ab75-fc32d0c31882)
+3- Tüm butonların pasif olduğu durum:
+3- Her Aktifleştirilen Butonun GraphQL Adresi:
 
 
 
