@@ -11,4 +11,16 @@ Bu proje, Java dilinde GUI programlama becerilerini öğrenmek ve geliştirmek i
 - Butonlar, basıldığında GraphQL şemasında bir mutation çalıştırma yeteneğine sahiptir.
 - Butonlar, aktif ve pasif durumlarını göstermek için farklı renk ve simgeleri kullanır.
 - Bir butona tıklandığında, diğer butonların durumları güncellenir; önceki butonlar pasif hale gelir, sadece tıklanan buton aktif olur.
-- Eğer ekranda örneğin 1. Butona basıldıktansonra  2.  Ve  daha  sonraki  herhangi  bir sıradaki basılmamış butona basıldığında onlarda aktif renk ve aktif simge gösterecektir. Ancak 1. Butona tekrar basılırsa önceden basılmış butonlar(varsa) pasif hale gelecektir ve sadece tekrar basılan buton aktif olacaktır. 
+- Eğer ekranda örneğin 1. Butona basıldıktansonra  2.  Ve  daha  sonraki  herhangi  bir sıradaki basılmamış butona basıldığında onlarda aktif renk ve aktif simge gösterecektir. Ancak 1. Butona tekrar basılırsa önceden basılmış butonlar(varsa) pasif hale gelecektir ve sadece tekrar basılan buton aktif olacaktır.
+
+## Kullanım Alanları
+  Bu tür bir proje, aşağıdaki kullanım alanlarına uygun olabilir:
+- GUI programlamaya yeni başlayan geliştiricilerin eğitimi ve öğrenimi için örnek bir proje.
+- Temel GUI becerilerini geliştirmek isteyen geliştiricilerin pratik yapması için bir temel proje.
+- Java dilindeki GUI kütüphaneleri ile çalışmak isteyenlerin başlangıç noktası.
+- Özelleştirilmiş butonlar gibi özel grafik bileşenlerinin nasıl oluşturulacağını ve kullanılacağını anlamak isteyenler için bir referans.
+- Bu proje, kullanıcı arayüzü tasarımı ve olay işleme konularında temel bir anlayış kazanmak isteyen Java geliştiricileri için faydalı olabilir.
+
+## Uygulama Çalıştırılması ve Süreci:
+1- Butonların Basılmamış Hali:
+<img src="C:\Users\Ayşegül\Desktop\ss2.png" alt="alt text" width="320" height="180">
